@@ -16,7 +16,7 @@
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "gulp-uglify-es": "^1.0.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "through2": "^3.0.1"
   }
 }
