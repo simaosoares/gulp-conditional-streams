@@ -19,5 +19,19 @@
     "minimist": "^1.2.5",
     "through2": "^3.0.1",
     "yargs-parser": ">=13.1.2"
+  },
+  "overrides": {
+    "gulp": {
+      "vinyl-fs": {
+        "glob-stream": {
+          "glob-parent": "^5.1.2"
+        }
+      },
+      "glob-watcher": {
+        "chokidar": {
+          "glob-parent": "^5.1.2"
+        }
+      }
+    }
   }
 }
