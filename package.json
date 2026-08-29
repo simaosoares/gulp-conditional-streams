@@ -12,8 +12,8 @@
   "author": "Simão Soares",
   "license": "ISC",
   "devDependencies": {
-    "del": "^5.0.0",
-    "gulp": "^4.0.2",
+    "del": "^8.0.1",
+    "gulp": "^5.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-uglify-es": "^3.0.0",
     "minimist": "^1.2.6",
